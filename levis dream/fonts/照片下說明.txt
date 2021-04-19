@@ -1,0 +1,11 @@
+<div class="thumb-inner animate" data-animate="fadeInUp">
+                                                <h4>magazine shooting</h4>
+                                                <p>I have done three shooting for my pesonal album, you can go to Bluemen's website and check it.</p>
+                                            </div>
+
+
+
+<div class="thumb-inner animate" data-animate="fadeInUp">
+                                                <h4>templatemo is the best</h4>
+                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap themes.</p>
+                                            </div>
